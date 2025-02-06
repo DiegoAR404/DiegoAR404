@@ -2,17 +2,18 @@
 
 **`CS Student (Software Engineering)`**
 
-Hi, welcome to my student Github. I am a third year student studying at California State University, Monterey Bay. 
-Most of the projects here are from past projects from previous classes i took.
+Hi, welcome to my student Github. I am a Senior student studying at California State University, Monterey Bay. 
+Most of the projects here are from past projects from previous classes I have taken.
 - - - 
 ### Languages that i've learned
 
-<img align="left" alt="Java" width="30px" style="padding-rignt:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-rignt:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-rignt:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-rignt:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-rignt:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-rignt:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-rignt:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-rignt:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
 <br/>
 <!--
 **DiegoAR404/DiegoAR404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
